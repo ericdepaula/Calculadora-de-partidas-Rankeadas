@@ -36,4 +36,5 @@ Quando o código é executado, o usuário insere a quantidade de vitórias e der
 ```
 Digite a quantidade de Vitórias: 50
 Digite a quantidade de Derrotas: 20
-O Herói tem de saldo de 30 vitórias e está no nível de Prata```
+O Herói tem de saldo de 30 vitórias e está no nível de Prata
+```
