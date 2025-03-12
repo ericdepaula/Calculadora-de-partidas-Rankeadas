@@ -21,8 +21,8 @@ A lógica do nível ranqueado funciona da seguinte maneira:
 git clone https://github.com/ericdepaula/Calculadora-de-partidas-Rankeadas.git
 ```
 
-2. *Abra o arquivo HTML em um navegador:*
-   Após clonar o repositório, basta abrir o arquivo HTML que acompanha o projeto em qualquer navegador para usar a calculadora.
+2. *Crie um arquivo JavaScript ou abra o console em um navegador:*
+   Após clonar o repositório, basta abrir executar o arquivo JavaScript para usar a calculadora.
 
 3. *Digite a quantidade de vitórias e derrotas:*
    O usuário será solicitado a digitar a quantidade de vitórias e derrotas. A partir dessas informações, o sistema calcula o saldo de vitórias e determina o nível ranqueado do jogador.
